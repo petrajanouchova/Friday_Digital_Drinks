@@ -1,0 +1,48 @@
+Open source datasets containing geodata:
+
+Pleiades 
+- https://pleiades.stoa.org
+- daily data dumps https://pleiades.stoa.org/downloads
+- CSV, KML, RDF, JSON
+- over 38 000 locations (15 Nov 2017)
+
+Pelagios
+- http://commons.pelagios.org/
+- links to other useful softwares / platforms - such as Recogito, or Peripleo
+- http://recogito.pelagios.org/ - collaborative annotations and linking texts
+- http://pelagios.org/peripleo/map - simple searching and placing the searches on map
+
+Roman Empire Vector map
+Viewing: https://klokantech.github.io/roman-empire/#4.05/42.192/11.632
+Repository on GitHub: https://github.com/klokantech/roman-empire
+Editing & export: https://editor.openmaptiles.org/?style=https://raw.githubusercontent.com/klokantech/roman-empire/master/style.json#4.6/42.943/8.771
+
+Ancient World Mapping Centre 
+(following the Barrington Atlas of the Greek and Roman World)
+Map files: http://awmc.unc.edu/wordpress/map-files/
+- Roads, Water, Elevation, Coastline, Aquaeducts, Bridges, Urban areas, Centuriation
+- Shapefiles, Tifs, Icons
+- API for easy search and access
+
+Orbis (The Stanford Geospatial NEtwork Model of the Roman World)
+- http://orbis.stanford.edu/
+- network analysis, travel distances / time calculation in the ancient world
+- exports map with selected routes as SVG (image)
+
+Mapping software:
+
+Google Earth
+Fusion tables
+Google My Maps https://www.google.com/maps/d/
+Google Map GIS http://www.gmapgis.com/
+Carto.com https://carto.com/
+
+More advanced software:
+QGIS
+- http://www.qgis.org/en/site/
+- Opensource
+
+ArcGIS
+- https://www.arcgis.com/features/index.html
+- robust, but need to get a license, ask MQ IT
+- online mapping as well

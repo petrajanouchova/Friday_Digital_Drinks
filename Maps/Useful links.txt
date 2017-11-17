@@ -13,13 +13,13 @@ Pelagios
 - http://pelagios.org/peripleo/map - simple searching and placing the searches on map
 
 Roman Empire Vector map
-Viewing: https://klokantech.github.io/roman-empire/#4.05/42.192/11.632
-Repository on GitHub: https://github.com/klokantech/roman-empire
-Editing & export: https://editor.openmaptiles.org/?style=https://raw.githubusercontent.com/klokantech/roman-empire/master/style.json#4.6/42.943/8.771
+- Viewing: https://klokantech.github.io/roman-empire/#4.05/42.192/11.632
+- Repository on GitHub: https://github.com/klokantech/roman-empire
+- Editing & export: https://editor.openmaptiles.org/?style=https://raw.githubusercontent.com/klokantech/roman-empire/master/style.json#4.6/42.943/8.771
 
 Ancient World Mapping Centre 
 (following the Barrington Atlas of the Greek and Roman World)
-Map files: http://awmc.unc.edu/wordpress/map-files/
+- Map files: http://awmc.unc.edu/wordpress/map-files/
 - Roads, Water, Elevation, Coastline, Aquaeducts, Bridges, Urban areas, Centuriation
 - Shapefiles, Tifs, Icons
 - API for easy search and access
@@ -32,15 +32,34 @@ Orbis (The Stanford Geospatial NEtwork Model of the Roman World)
 Mapping software:
 
 Google Earth
-Fusion tables
-Google My Maps https://www.google.com/maps/d/
-Google Map GIS http://www.gmapgis.com/
-Carto.com https://carto.com/
+- https://www.google.com/earth/
+- simple way of displaying and creating saptial data (KML)
 
-More advanced software:
+Fusion tables
+- part of Google package (add new App Fusion Tables, then create New button in Google Drive)
+- more sofisticated but yet simple and powerful way of creation, display and manipulation (merging, joining) spatial data
+- data visualisation
+- CSV, KML, 
+
+Google My Maps 
+- https://www.google.com/maps/d/
+- very simple way of creating points and exporting them as images (for presentation purposes mostly)
+
+Google Map GIS 
+- http://www.gmapgis.com/
+- simple way how to create points, polygons and lines and exporting them as KML, GeoJSON, CSV
+- simple way how to online display datasets containing geodata: KML, GeoJSON
+
+Carto.com 
+https://carto.com/
+- registration needed, but relatively simple way how to create maps for presentation or publication from existing geodata
+- basemaps provided
+
+More advanced software (for publication ready maps and various geospatial analyses):
+
 QGIS
 - http://www.qgis.org/en/site/
-- Opensource
+- Opensource, but fairly complex to use, powerful
 
 ArcGIS
 - https://www.arcgis.com/features/index.html

@@ -1,6 +1,12 @@
 # Friday Digital Drinks
 **_"If you don't think you have a quality problem with your data, you haven't looked at it yet."_**
 
+<p align="left">
+  <img src="https://github.com/petrajanouchova/Friday_Digital_Drinks/blob/master/Images/point.gif"/>
+</p>
+
+
+
 Every researcher has experienced one or multiple of the following situations: 
 1. A problem that you are not sure how to solve
 1. No space to think about new ideas and ways of pushing the research forward
